@@ -1,0 +1,146 @@
+C:\Users\SeanLarii\source\repos\OnlineShopping\MainPage\obj\Debug\OnlineShopping.csprojAssemblyReference.cache
+C:\Users\SeanLarii\source\repos\OnlineShopping\MainPage\obj\Debug\MainPage.Properties.Resources.resources
+C:\Users\SeanLarii\source\repos\OnlineShopping\MainPage\obj\Debug\OnlineShopping.FrmMainPage.resources
+C:\Users\SeanLarii\source\repos\OnlineShopping\MainPage\obj\Debug\MainPage.View.FrmSetupConnection.resources
+C:\Users\SeanLarii\source\repos\OnlineShopping\MainPage\obj\Debug\OnlineShopping.csproj.GenerateResource.cache
+C:\Users\SeanLarii\source\repos\OnlineShopping\MainPage\obj\Debug\OnlineShopping.csproj.CoreCompileInputs.cache
+C:\Users\SeanLarii\source\repos\OnlineShopping\MainPage\bin\Debug\MainPage.exe.config
+C:\Users\SeanLarii\source\repos\OnlineShopping\MainPage\bin\Debug\MainPage.exe
+C:\Users\SeanLarii\source\repos\OnlineShopping\MainPage\bin\Debug\MainPage.pdb
+C:\Users\SeanLarii\source\repos\OnlineShopping\MainPage\bin\Debug\Npgsql.dll
+C:\Users\SeanLarii\source\repos\OnlineShopping\MainPage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SeanLarii\source\repos\OnlineShopping\MainPage\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\SeanLarii\source\repos\OnlineShopping\MainPage\bin\Debug\System.ValueTuple.dll
+C:\Users\SeanLarii\source\repos\OnlineShopping\MainPage\bin\Debug\Npgsql.pdb
+C:\Users\SeanLarii\source\repos\OnlineShopping\MainPage\bin\Debug\Npgsql.xml
+C:\Users\SeanLarii\source\repos\OnlineShopping\MainPage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\SeanLarii\source\repos\OnlineShopping\MainPage\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\SeanLarii\source\repos\OnlineShopping\MainPage\bin\Debug\System.ValueTuple.xml
+C:\Users\SeanLarii\source\repos\OnlineShopping\MainPage\obj\Debug\OnlineShopping.csproj.CopyComplete
+C:\Users\SeanLarii\source\repos\OnlineShopping\MainPage\obj\Debug\MainPage.exe
+C:\Users\SeanLarii\source\repos\OnlineShopping\MainPage\obj\Debug\MainPage.pdb
+C:\Users\Kemmy\Desktop\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\MainPage.exe.config
+C:\Users\Kemmy\Desktop\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\MainPage.exe
+C:\Users\Kemmy\Desktop\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\MainPage.pdb
+C:\Users\Kemmy\Desktop\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\Npgsql.dll
+C:\Users\Kemmy\Desktop\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kemmy\Desktop\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kemmy\Desktop\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\System.ValueTuple.dll
+C:\Users\Kemmy\Desktop\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\Npgsql.pdb
+C:\Users\Kemmy\Desktop\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\Npgsql.xml
+C:\Users\Kemmy\Desktop\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kemmy\Desktop\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kemmy\Desktop\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\System.ValueTuple.xml
+C:\Users\Kemmy\Desktop\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\obj\Debug\OnlineShopping.csprojAssemblyReference.cache
+C:\Users\Kemmy\Desktop\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\obj\Debug\MainPage.Properties.Resources.resources
+C:\Users\Kemmy\Desktop\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\obj\Debug\OnlineShopping.FrmMainPage.resources
+C:\Users\Kemmy\Desktop\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\obj\Debug\MainPage.View.FrmSetupConnection.resources
+C:\Users\Kemmy\Desktop\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\obj\Debug\OnlineShopping.csproj.GenerateResource.cache
+C:\Users\Kemmy\Desktop\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\obj\Debug\OnlineShopping.csproj.CoreCompileInputs.cache
+C:\Users\Kemmy\Desktop\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\obj\Debug\OnlineShopping.csproj.CopyComplete
+C:\Users\Kemmy\Desktop\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\obj\Debug\MainPage.exe
+C:\Users\Kemmy\Desktop\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\obj\Debug\MainPage.pdb
+C:\Users\OWNER\Documents\New Shopping\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\MainPage.exe.config
+C:\Users\OWNER\Documents\New Shopping\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\MainPage.exe
+C:\Users\OWNER\Documents\New Shopping\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\MainPage.pdb
+C:\Users\OWNER\Documents\New Shopping\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\Npgsql.dll
+C:\Users\OWNER\Documents\New Shopping\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\OWNER\Documents\New Shopping\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\OWNER\Documents\New Shopping\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\System.ValueTuple.dll
+C:\Users\OWNER\Documents\New Shopping\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\Npgsql.pdb
+C:\Users\OWNER\Documents\New Shopping\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\Npgsql.xml
+C:\Users\OWNER\Documents\New Shopping\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\OWNER\Documents\New Shopping\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\OWNER\Documents\New Shopping\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\System.ValueTuple.xml
+C:\Users\OWNER\Documents\New Shopping\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\obj\Debug\OnlineShopping.csprojAssemblyReference.cache
+C:\Users\OWNER\Documents\New Shopping\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\obj\Debug\MainPage.Properties.Resources.resources
+C:\Users\OWNER\Documents\New Shopping\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\obj\Debug\OnlineShopping.FrmMainPage.resources
+C:\Users\OWNER\Documents\New Shopping\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\obj\Debug\MainPage.View.FrmSetupConnection.resources
+C:\Users\OWNER\Documents\New Shopping\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\obj\Debug\OnlineShopping.csproj.GenerateResource.cache
+C:\Users\OWNER\Documents\New Shopping\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\obj\Debug\OnlineShopping.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Documents\New Shopping\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\obj\Debug\OnlineShopping.csproj.CopyComplete
+C:\Users\OWNER\Documents\New Shopping\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\obj\Debug\MainPage.exe
+C:\Users\OWNER\Documents\New Shopping\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\obj\Debug\MainPage.pdb
+F:\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\MainPage.exe.config
+F:\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\MainPage.exe
+F:\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\MainPage.pdb
+F:\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\Npgsql.dll
+F:\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\System.ValueTuple.dll
+F:\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\Npgsql.pdb
+F:\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\Npgsql.xml
+F:\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\bin\Debug\System.ValueTuple.xml
+F:\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\obj\Debug\OnlineShopping.csprojAssemblyReference.cache
+F:\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\obj\Debug\MainPage.Properties.Resources.resources
+F:\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\obj\Debug\OnlineShopping.FrmMainPage.resources
+F:\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\obj\Debug\MainPage.View.FrmSetupConnection.resources
+F:\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\obj\Debug\OnlineShopping.csproj.GenerateResource.cache
+F:\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\obj\Debug\OnlineShopping.csproj.CoreCompileInputs.cache
+F:\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\obj\Debug\OnlineShopping.csproj.CopyComplete
+F:\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\obj\Debug\MainPage.exe
+F:\OnlineShopping\OnlineShopping\OnlineShopping\MainPage\obj\Debug\MainPage.pdb
+C:\Users\Kemmy\Desktop\before\MainPage\obj\Debug\OnlineShopping.csprojAssemblyReference.cache
+C:\Users\Kemmy\Desktop\before\MainPage\obj\Debug\MainPage.Properties.Resources.resources
+C:\Users\Kemmy\Desktop\before\MainPage\obj\Debug\OnlineShopping.FrmMainPage.resources
+C:\Users\Kemmy\Desktop\before\MainPage\obj\Debug\MainPage.View.FrmSetupConnection.resources
+C:\Users\Kemmy\Desktop\before\MainPage\obj\Debug\OnlineShopping.csproj.GenerateResource.cache
+C:\Users\Kemmy\Desktop\before\MainPage\obj\Debug\OnlineShopping.csproj.CoreCompileInputs.cache
+C:\Users\Kemmy\Desktop\before\MainPage\obj\Debug\MainPage.exe
+C:\Users\Kemmy\Desktop\before\MainPage\obj\Debug\MainPage.pdb
+C:\Users\Kemmy\Desktop\before\MainPage\bin\Debug\MainPage.exe.config
+C:\Users\Kemmy\Desktop\before\MainPage\bin\Debug\MainPage.exe
+C:\Users\Kemmy\Desktop\before\MainPage\bin\Debug\MainPage.pdb
+C:\Users\Kemmy\Desktop\before\MainPage\bin\Debug\Npgsql.dll
+C:\Users\Kemmy\Desktop\before\MainPage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kemmy\Desktop\before\MainPage\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kemmy\Desktop\before\MainPage\bin\Debug\System.ValueTuple.dll
+C:\Users\Kemmy\Desktop\before\MainPage\bin\Debug\Npgsql.pdb
+C:\Users\Kemmy\Desktop\before\MainPage\bin\Debug\Npgsql.xml
+C:\Users\Kemmy\Desktop\before\MainPage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kemmy\Desktop\before\MainPage\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kemmy\Desktop\before\MainPage\bin\Debug\System.ValueTuple.xml
+C:\Users\Kemmy\Desktop\before\MainPage\obj\Debug\OnlineShopping.csproj.CopyComplete
+C:\Users\Kemmy\Desktop\ui + sean\MainPage\obj\Debug\OnlineShopping.csprojAssemblyReference.cache
+C:\Users\Kemmy\Desktop\ui + sean\MainPage\obj\Debug\MainPage.Properties.Resources.resources
+C:\Users\Kemmy\Desktop\ui + sean\MainPage\obj\Debug\OnlineShopping.FrmMainPage.resources
+C:\Users\Kemmy\Desktop\ui + sean\MainPage\obj\Debug\MainPage.View.FrmSetupConnection.resources
+C:\Users\Kemmy\Desktop\ui + sean\MainPage\obj\Debug\OnlineShopping.csproj.GenerateResource.cache
+C:\Users\Kemmy\Desktop\ui + sean\MainPage\obj\Debug\OnlineShopping.csproj.CoreCompileInputs.cache
+C:\Users\Kemmy\Desktop\ui + sean\MainPage\obj\Debug\MainPage.exe
+C:\Users\Kemmy\Desktop\ui + sean\MainPage\obj\Debug\MainPage.pdb
+C:\Users\SeanLarii\Desktop\ui + sean\MainPage\obj\Debug\OnlineShopping.csprojAssemblyReference.cache
+C:\Users\SeanLarii\Desktop\ui + sean\MainPage\obj\Debug\MainPage.Properties.Resources.resources
+C:\Users\SeanLarii\Desktop\ui + sean\MainPage\obj\Debug\OnlineShopping.FrmMainPage.resources
+C:\Users\SeanLarii\Desktop\ui + sean\MainPage\obj\Debug\MainPage.View.FrmSetupConnection.resources
+C:\Users\SeanLarii\Desktop\ui + sean\MainPage\obj\Debug\OnlineShopping.csproj.GenerateResource.cache
+C:\Users\SeanLarii\Desktop\ui + sean\MainPage\obj\Debug\OnlineShopping.csproj.CoreCompileInputs.cache
+C:\Users\SeanLarii\Desktop\ui + sean\MainPage\obj\Debug\MainPage.exe
+C:\Users\SeanLarii\Desktop\ui + sean\MainPage\obj\Debug\MainPage.pdb
+C:\Users\SeanLarii\Desktop\ui + sean\MainPage\bin\Debug\MainPage.exe.config
+C:\Users\SeanLarii\Desktop\ui + sean\MainPage\bin\Debug\MainPage.exe
+C:\Users\SeanLarii\Desktop\ui + sean\MainPage\bin\Debug\MainPage.pdb
+C:\Users\SeanLarii\Desktop\ui + sean\MainPage\bin\Debug\Npgsql.dll
+C:\Users\SeanLarii\Desktop\ui + sean\MainPage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SeanLarii\Desktop\ui + sean\MainPage\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\SeanLarii\Desktop\ui + sean\MainPage\bin\Debug\System.ValueTuple.dll
+C:\Users\SeanLarii\Desktop\ui + sean\MainPage\bin\Debug\Npgsql.pdb
+C:\Users\SeanLarii\Desktop\ui + sean\MainPage\bin\Debug\Npgsql.xml
+C:\Users\SeanLarii\Desktop\ui + sean\MainPage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\SeanLarii\Desktop\ui + sean\MainPage\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\SeanLarii\Desktop\ui + sean\MainPage\bin\Debug\System.ValueTuple.xml
+C:\Users\SeanLarii\Desktop\ui + sean\MainPage\obj\Debug\OnlineShopping.csproj.CopyComplete
+C:\Users\Kemmy\Desktop\ui + sean\MainPage\bin\Debug\MainPage.exe.config
+C:\Users\Kemmy\Desktop\ui + sean\MainPage\bin\Debug\MainPage.exe
+C:\Users\Kemmy\Desktop\ui + sean\MainPage\bin\Debug\MainPage.pdb
+C:\Users\Kemmy\Desktop\ui + sean\MainPage\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kemmy\Desktop\ui + sean\MainPage\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kemmy\Desktop\ui + sean\MainPage\bin\Debug\System.ValueTuple.dll
+C:\Users\Kemmy\Desktop\ui + sean\MainPage\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kemmy\Desktop\ui + sean\MainPage\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kemmy\Desktop\ui + sean\MainPage\bin\Debug\System.ValueTuple.xml
+C:\Users\Kemmy\Desktop\ui + sean\MainPage\obj\Debug\OnlineShopping.csproj.CopyComplete
+C:\Users\Kemmy\Desktop\ui + sean\MainPage\bin\Debug\mono.security.dll
+C:\Users\Kemmy\Desktop\ui + sean\MainPage\bin\Debug\npgsql.dll
